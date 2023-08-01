@@ -1,0 +1,154 @@
+body {
+    background-image: url(https://bogatyr.club/uploads/posts/2023-01/1675015570_bogatyr-club-p-fon-dlya-saita-html-fon-instagram-2.jpg);
+}
+
+
+
+
+
+a {
+    text-decoration: none;
+    padding-bottom: 30px; 
+    display: block;
+}
+
+
+.custom-button1 {
+                display: inline-block;
+                background-color: red;
+                color: white;
+                padding: 10px 10px;
+                text-align: center;
+                text-decoration: none;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+}
+
+
+.custom-button2 {
+    display: inline-block;
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px 10px;
+                text-align: center;
+                text-decoration: none;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+}
+
+
+.custom-button3 {
+    display: inline-block;
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px 10px;
+                text-align: center;
+                text-decoration: none;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+}
+
+
+.custom-button4 {
+    display: inline-block;
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px 10px;
+                text-align: center;
+                text-decoration: none;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+}
+
+.custom-button1 {
+    position: absolute; 
+    bottom: 550px; 
+    left: 10%; 
+    transform: translateX(-50%); 
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.custom-button2 {
+    position: absolute; 
+    bottom: 550px; 
+    left: 70%; 
+    transform: translateX(-50%); 
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.custom-button3 {
+    position: absolute; 
+    bottom: 550px; 
+    left: 30%; 
+    transform: translateX(-50%); 
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+ 
+.custom-button4 {
+    position: absolute; 
+    bottom: 550px; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+.img-pidoras {
+    height: 228px;
+    margin: 228px;
+    width: 300px; 
+    height: 200px;
+    margin-left: 10px;
+
+}
+
+
+.stiler-pon {
+    margin-top: -183px;
+    margin-left: 690px;
+    font-size: 120%;
+}
